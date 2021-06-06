@@ -1,15 +1,15 @@
 Passwords for Hospital:
-1.  Username:Amrita
+1.  Username:Amrita,
     Password:123
-2.  Username:Govt
+2.  Username:Govt,
     Password:123   
-3.  Username:Lake
-    Password:123.
-4.  Username:Lisie
+3.  Username:Lake,
     Password:123
-5.  Username:Medical
+4.  Username:Lisie,
     Password:123
-6.  Username:Trust
+5.  Username:Medical,
+    Password:123
+6.  Username:Trust,
     Password:123
     
 Passwords for Moderator:
